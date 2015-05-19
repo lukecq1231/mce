@@ -1,5 +1,4 @@
 #!/usr/bin/perl
-# Chen Qian @ 2014.10
 $vecfile="vectors.txt";
 $setfile="./data/testset.txt"; #testset or devset
 $logfile="log_testset.txt";
