@@ -1,6 +1,6 @@
 # Tools for Word Embedding for Contrasting Meaning
 
-Implementations of the Marginal Contrast Embedding (MCE) model presented in the paper "Revisiting word embedding for contrasting meaning" by Zhigang Chen, Lin Wei, Qian Chen, Xiaoping Chen, Si Wei, Hui JIang and Xiaodan Zhu, ACL 2015
+Implementations of the Marginal Contrast Embedding (MCE) model presented in the paper "Revisiting word embedding for contrasting meaning" by Zhigang Chen, Wei Lin, Qian Chen, Xiaoping Chen, Si Wei, Hui JIang and Xiaodan Zhu, ACL 2015
 
 We provide an implementation of the Marginal Contrast Embedding (MCE) and the test scripts. Give a thesaurus of antonym and synonym, the tool learns a vecotr for every word in the vocabulary using MCE model. The user should to specify the following:
 
