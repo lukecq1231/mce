@@ -13,14 +13,17 @@ The script run.sh trains a MCE model and test the result on "most contrasting wo
 
 The code is based on word2vec (https://code.google.com/p/word2vec/).
 
-For any question or bug with the code, feel free to contact cq1231#mail.ustc.edu.cn
+For any question or bug with the code, feel free to contact cq1231@mail.ustc.edu.cn
 
 ```latex
-@inproceedings{chen2015revisiting,
-  title={Revisiting word embedding for contrasting meaning},
-  author={Chen, Zhigang and Lin, Wei and Chen, Qian and Chen, Xiaoping and Wei, Si and Jiang, Hui and Zhu, Xiaodan},
-  booktitle={Proceedings of ACL},
-  year={2015}
+@InProceedings{Chen-Zhigang:2015:ACL,
+  author    = {Chen, Zhigang and Lin, Wei and Chen, Qian and Chen, Xiaoping and Wei, Si and Jiang, Hui and Zhu, Xiaodan},
+  title     = {Revisiting Word Embedding for Contrasting Meaning},
+  booktitle = {Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and The 7th International Joint Conference of the Asian Federation of Natural Language Processing (ACL-IJCNLP 2015)},
+  month     = {July},
+  year      = {2015},
+  address   = {Beijing, China},
+  publisher = {ACL}
 }
 ```
 Homepage of Qian Chen, http://home.ustc.edu.cn/~cq1231/
